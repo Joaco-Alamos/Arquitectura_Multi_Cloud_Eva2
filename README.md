@@ -1,5 +1,5 @@
 # ERP Farmacias SIMI
-Este proyecto implementa un sistema ERP contenerizado con una arquitectura Tier-2 en AWS.
+Este proyecto implementa un sistema ERP
 
 ## Arquitectura
 - **FrontEnd:** Node.js + Express en contenedor Docker.
